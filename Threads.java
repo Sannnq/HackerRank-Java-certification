@@ -1,3 +1,4 @@
+//Third problem: Threads 
 class SampleDemo implements Runnable{
     private Thread t;
     private String s;
